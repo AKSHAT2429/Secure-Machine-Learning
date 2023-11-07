@@ -49,7 +49,7 @@ This project is licensed under the [Your License Name] License - see the [LICENS
 
 ## Author
 
-- **Akshat Agrawal** ([Your GitHub Profile](https://github.com/AKSHAT2429))
+- **Akshat Agrawal** ([GitHub Profile](https://github.com/AKSHAT2429))
 
 ## Contact Information
 
