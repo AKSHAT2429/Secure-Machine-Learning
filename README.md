@@ -1,6 +1,6 @@
-# Distributed-Learning
+# Security and Privacy in Machine Learning
 
-**Reducing Communication Cost and Enabling Privacy in Distributed Learning**
+**Reducing Communication Cost and Enabling Privacy in Distributed Machine Learning**
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AKSHAT2429/Distributed-Learning)
 ![GitHub](https://img.shields.io/github/license/AKSHAT2429/Distributed-Learning)
